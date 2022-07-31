@@ -1,8 +1,8 @@
-# JS-Movies API
+# Netflix Movies working with APIs
 
 `LIVE DEMO`
 
-<a href=""></a>
+<a href="https://friendly-begonia-63f240.netlify.app/">LIVE DEMO PROJECT</a>
 
 # Create a fetchMovie() function that will make a dynamic API call to what you need
 

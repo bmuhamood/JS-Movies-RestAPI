@@ -1,11 +1,10 @@
-// Called whe the page is loaded
+// Called when the page is loaded
 window.onload = () => {
   getOriginals()
   getTrendingNow()
   getTopRated()
   getWishList()
   getGenres()
-  letVarExample()
 }
 
 function getWishList() {
